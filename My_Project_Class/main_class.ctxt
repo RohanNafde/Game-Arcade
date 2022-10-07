@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=main_class
+comment1.params=members
+comment1.target=java.lang.String\ create_username(Game_arcade[])
+comment2.params=members
+comment2.target=java.lang.String\ create_password(Game_arcade[])
+comment3.params=members
+comment3.target=void\ delete_username(Game_arcade[])
+comment4.params=members
+comment4.target=int\ login_username(Game_arcade[])
+comment5.params=members\ i
+comment5.target=int\ login_password(Game_arcade[],\ int)
+comment6.params=members
+comment6.target=void\ admin(Game_arcade[])
+comment7.params=members
+comment7.target=void\ add_tickets(Game_arcade[])
+comment8.params=
+comment8.target=void\ main()
+numComments=9
